@@ -1,0 +1,23 @@
+C:\Files\VSProject\物料管理\MaterialsManagement\bin\Debug\Materials Management System.exe.config
+C:\Files\VSProject\物料管理\MaterialsManagement\bin\Debug\Materials Management System.exe
+C:\Files\VSProject\物料管理\MaterialsManagement\bin\Debug\Materials Management System.pdb
+C:\Files\VSProject\物料管理\MaterialsManagement\bin\Debug\Aspose.Cells.dll
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.csprojResolveAssemblyReference.cache
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.ChangePswdForm.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.FeedbackForm.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.CheckRecordForm.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.ChangePersonalityForm.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.MainFormPre.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.ManageUserForm.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.EditCategoryForm.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.ResetPswdForm.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.RegisterForm.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.ProgressForm.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.SplashForm.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.LoginForm.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.MainForm.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.InformationForm.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.Properties.Resources.resources
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\MaterialsManagement.csproj.GenerateResource.Cache
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\Materials Management System.exe
+C:\Files\VSProject\物料管理\MaterialsManagement\obj\Debug\Materials Management System.pdb
